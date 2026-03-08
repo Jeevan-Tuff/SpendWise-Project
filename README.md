@@ -69,7 +69,7 @@ SpendWise
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/SpendWise.git
+git clone https://github.com/Jeevan-Tuff/SpendWise-Project.git
 ```
 
 ---
